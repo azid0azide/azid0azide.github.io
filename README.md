@@ -1,7 +1,8 @@
 # My Portfolio Website
 
 > [!IMPORTANT]
-> I'm glad you're here! :smiling:
+> Kinda embarrasing, no? :smiling:
+> It's kinda unfinished. You might've noticed. Had some stuff occupying my attention. Just stick around and you'll find some cool stuff over here.
 
 This repo contains a little about me. I hope you'll find it helpful.
 
