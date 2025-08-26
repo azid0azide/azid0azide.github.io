@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 > [!IMPORTANT]
-> Kinda embarrasing, no? :smiling:
+> Kinda embarrasing, no? 😅
 > It's kinda unfinished. You might've noticed. Had some stuff occupying my attention. Just stick around and you'll find some cool stuff over here.
 
 This repo contains a little about me. I hope you'll find it helpful.
